@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-17xl: 36px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-cornflowerblue: #169fed;
+  --color-steelblue-100: #1491d8;
+  --color-darkslategray: #094364;
+
+  /* Gaps */
+  --gap-41xl: 60px;
+
+  /* Border radiuses */
+  --br-135xl: 154px;
+  --br-base: 16px;
+
+  /* Effects */
+  --m3-elevation-light-2: 0px 1px 2px rgba(0, 0, 0, 0.3),
+    0px 2px 6px 2px rgba(0, 0, 0, 0.15);
+  --m3-elevation-light-1: 0px 1px 2px rgba(0, 0, 0, 0.3),
+    0px 1px 3px 1px rgba(0, 0, 0, 0.15);
+}
