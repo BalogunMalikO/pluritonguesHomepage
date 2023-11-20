@@ -1,3 +1,4 @@
+@media only screen and (min-width: 768px){
 .careers-child {
   position: absolute;
   top: 4130px;
@@ -39,6 +40,8 @@
   display: inline-block;
   height: 169px;
 }
+
+
 .frame-child,
 .join-our-team-and-transform-la-parent {
   position: relative;
@@ -556,6 +559,7 @@
 .message {
   top: 394px;
 }
+@media only screen and (min-width: 768px){
 .send-us-a-message-parent {
   position: absolute;
   right: 40px;
@@ -563,6 +567,7 @@
   width: 785px;
   height: 574px;
   font-size: var(--font-size-base);
+}
 }
 .careers-item {
   position: absolute;
@@ -648,4 +653,5 @@
   overflow: hidden;
   font-size: var(--font-size-17xl);
   color: var(--color-black);
+}
 }
